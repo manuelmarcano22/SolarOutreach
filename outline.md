@@ -20,7 +20,7 @@
      - Size 
      - From la palma [cells](https://www.cora.nwra.com/~werne/eos/text/convection_zone.html#observation) or [this](https://physics.aps.org/assets/978c9d05-6325-4893-b307-afd3a3dcca87/e74_1.png)
      - Think convecton cells. What could stop them? B field.
-
+	[Large Sunspot](https://youtu.be/Nnwqkm6rL4M)
      - Other questions:
       - Life time? Rotatin of the Sun?
       - Does it rotate at the same speed? 
@@ -29,18 +29,50 @@
      - Proof magnetic field:
      	- Loops. Look like magnet [Image](https://www.windows2universe.org/sun/images/sunspot_magnetism_big_jpg_image.html)
      	- [Video Loop](https://helioviewer.org/?date=2011-11-05T19:39:22.000Z&imageScale=0.60511022&centerX=-786.435279361875&centerY=-500.42615194&imageLayers=%5BSDO,AIA,171,1,100,0,60,1,2018-07-11T12:35:42.000Z%5D&eventLayers=&eventLabels=true)
+     	- Video [Vide](https://youtu.be/BVDsQkuRt-c)
      	- Measure 
      	- Hsow magnetogram. 
      	- New Cycle 4 january 2008 [SOHO](https://helioviewer.org/?date=2008-01-04T19:39:13.000Z&imageScale=2.42044088&centerX=13.31242484&centerY=-272.299599&imageLayers=%5BSOHO,MDI,magnetogram,1,100,0,60,1,2018-07-11T13:38:30.000Z%5D&eventLayers=%5BSS,all,1%5D&eventLabels=true)
+'
+[Funny](https://www.nasa.gov/content/goddard/sdo-jack-o-lantern-sun)
+- [Funny tw](https://helioviewer.org/?date=2016-07-14T03:58:29.000Z&imageScale=2.42044088&centerX=36.3066132&centerY=-55.518862685&imageLayers=%5BSDO,AIA,193,1,100,0,60,1,2018-07-11T12:35:42.000Z.000Z%5D&eventLayers=&eventLabels=true)
+
+[Lanter](https://helioviewer.org/?date=2014-10-08T22:39:22.000Z&imageScale=2.42044088&centerX=-786.643286&centerY=-462.398756551875&imageLayers=%5BSDO,AIA,171,1,100,0,60,1,2018-07-11T12:35:42.000Z.000Z%5D&eventLayers=%5BSS,all,true%5D&eventLabels=true)
 
 - Active reagions and Exploosions;
+a
+ - Hallowwen storms [oct 26 2003](https://helioviewer.org/?date=2003-10-26T05:36:11.000Z&imageScale=38.72705408&centerX=-3524.16192128&centerY=-1936.3527040000001&imageLayers=%5BSOHO,LASCO,C3,white-light,1,100,0,60,1,2018-07-11T12:35:42.000Z.000Z%5D,%5BSOHO,LASCO,C2,white-light,1,100,0,60,1,2003-10-26T04:36:11.000Z%5D,%5BSOHO,EIT,195,1,100,0,60,1,2003-10-26T04:36:11.000Z%5D&eventLayers=&eventLabels=true)
+  - [Storm two](https://helioviewer.org/?date=2003-10-29T05:36:11.000Z&imageScale=77.45410816&centerX=-7687.3202348800005&centerY=-735.8140275200001&imageLayers=%5BSOHO,LASCO,C3,white-light,1,100,0,60,1,2018-07-11T12:35:42.000Z.000Z%5D,%5BSOHO,LASCO,C2,white-light,1,100,0,60,1,2003-10-26T04:36:11.000Z%5D,%5BSOHO,EIT,195,1,100,0,60,1,2003-10-26T04:36:11.000Z%5D&eventLayers=&eventLabels=true)
+  - [Storm two video](https://youtu.be/N-xkZrjWcJE) Mercury
 
- - Hallowwen storms
+ - [TExas Aurora](https://www.nasa.gov/sites/default/files/thumbnails/image/ponder1.jpg)
+ 
+ The 2003 Halloween solar storms were so powerful that auroras were seen as far south as Texas and Florida. This aurora image was taken near Houston Texas on Oct. 29, 2003..
+ Credits: Courtesy of Christie Ponder
+
   - Halloween picure
   - Geomagnatic stomr
   - No TV
 
 
+
+# Soho
+
+- n the way wiht planets [2000-05-15](https://helioviewer.org/?date=2000-05-15T03:58:29.000Z&imageScale=77.45410816&centerX=-5230.57274168&centerY=890.72224384&imageLayers=%5BSOHO,LASCO,C3,white-light,1,100,0,60,1,2018-07-11T12:35:42.000Z.000Z%5D&eventLayers=&eventLabels=true)
+
+
+
+# Parker Solar Probe
+[Video](https://youtu.be/XBudjihQKsw)
+
+
+
+# Spectra:
+
+- [SDSS](https://dr14.sdss.org/optical/spectrum/view)
+
+# Zoonuverse lile
+Planet Hunters (https://www.planethunters.org/)
 
 
 
